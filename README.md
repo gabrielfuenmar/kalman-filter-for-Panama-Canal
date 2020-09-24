@@ -16,10 +16,6 @@ Parameters:
     vessel: iterator with AIS positions from prefiltered positions belonging to Panama Canal shapeBox
     iteration:  5 iterations. No convergence measurement nor converged to optimal. Pending
     
-Interpolation
-
-![alt text](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/1_suez_canal_polygons.png)
-
 
 Returns:
   
